@@ -149,7 +149,7 @@ header {
   max-width: 600px;
   color: var(--text-dark);
 }
-#bottondesc {
+#botondesc {
   margin-bottom: 10px
 }
 .header__form {
