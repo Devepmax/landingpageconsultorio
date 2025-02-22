@@ -150,7 +150,7 @@ header {
   color: var(--text-dark);
 }
 #botondesc {
-  margin-bottom: 10px
+  margin-bottom: 30px
 }
 .header__form {
   width: 100%;
@@ -204,13 +204,11 @@ textarea::placeholder {
 .form__btn:hover {
   background-color: #a8edea;
 }
-
 .header__form h4{
   font-size: 1.5rem;
   font-weight: 700;
   color: #e6007e;
 }
-
 /*Estilo de alerta*/
 .descuento-msg {
   position: fixed;
@@ -227,7 +225,6 @@ textarea::placeholder {
   display: none;
   animation: fadeIn 0.4s ease-in-out;
 }
-
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -238,9 +235,6 @@ textarea::placeholder {
     transform: translateX(-50%) translateY(0);
   }
 }
-
-
-
 .service__header {
   display: flex;
   align-items: center;
